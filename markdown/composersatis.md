@@ -1,30 +1,30 @@
-##Damals...
+## Damals...
 -----
 
-##Mehrstufige Abhängigkeiten
+## Mehrstufige Abhängigkeiten
 -----
 
-##Zirkuläre Abhängigkeiten (böses Bild)
+## Zirkuläre Abhängigkeiten (böses Bild)
 -----
 
-##Möglichkeiten Abhängigkeiten zu verwalten
+## Möglichkeiten Abhängigkeiten zu verwalten
 -----
 
-##1. Manuell (geht bei sehr kleinen Projekten, die nicht aktualisiert werden müssen)
+## 1. Manuell (geht bei sehr kleinen Projekten, die nicht aktualisiert werden müssen)
 -----
 
-##2. Automatisiert
+## 2. Automatisiert
 -----
 
-##Lösung: Ein Tool zur Verwaltung von Abhängigkeiten
+## Lösung: Ein Tool zur Verwaltung von Abhängigkeiten
 -----
 
-##Composer
+## Composer
 -----
 
-##Composer besteht aus Composer und Packagist
+## Composer besteht aus Composer und Packagist
 -----
 
-##Installation von Composer
+## Installation von Composer
 -----
 
