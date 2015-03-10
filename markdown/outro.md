@@ -1,4 +1,3 @@
-<br><br><br><br>
 ## Vielen Dank!
 
 * Slides: [http://henrikthesing.github.io/talk-composer-satis](http://henrikthesing.github.io/talk-composer-satis)
